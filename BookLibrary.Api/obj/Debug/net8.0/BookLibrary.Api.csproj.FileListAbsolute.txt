@@ -133,3 +133,4 @@ C:\Users\pizda\RiderProjects\BookLibrary.Api\BookLibrary.Api\obj\Debug\net8.0\re
 C:\Users\pizda\RiderProjects\BookLibrary.Api\BookLibrary.Api\obj\Debug\net8.0\BookLibrary.Api.pdb
 C:\Users\pizda\RiderProjects\BookLibrary.Api\BookLibrary.Api\obj\Debug\net8.0\BookLibrary.Api.genruntimeconfig.cache
 C:\Users\pizda\RiderProjects\BookLibrary.Api\BookLibrary.Api\obj\Debug\net8.0\ref\BookLibrary.Api.dll
+C:\Users\pizda\RiderProjects\BookLibrary.Api\BookLibrary.Api\obj\Debug\net8.0\BookLibrary.Api.sourcelink.json
